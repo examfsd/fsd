@@ -1,0 +1,9 @@
+# Ignore Node global modules
+node_modules/
+
+# Ignore environment
+.env
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
